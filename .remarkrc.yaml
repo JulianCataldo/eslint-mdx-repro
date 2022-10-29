@@ -1,3 +1,0 @@
-plugins:
-  - remark-frontmatter
-  - remark-lint-frontmatter-schema
